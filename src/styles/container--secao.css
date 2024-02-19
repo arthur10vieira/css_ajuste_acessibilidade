@@ -26,7 +26,9 @@
 
 .container__secao .container__secao--conteudo .container__secao--conteudo--textos .container__secao--conteudo--textos-titulo {
   font-family: "Krona One", sans-serif;
-  font-size: 2.6rem;
+  font-size: 2rem;
+  color: var(--azul-escuro);
+  font-weight: 400;
 }
 
 .container__secao .container__secao--conteudo .container__secao--conteudo--textos .container__secao--conteudo--textos-infos {
@@ -57,20 +59,20 @@
   }
 
   .container__secao .container__secao--conteudo .container__secao--conteudo--img1 {
-      width: 64.8rem;
+      width: 648px;
   }
 
   .container__secao .container__secao--conteudo .container__secao--conteudo--img2 {
-      width: 31.2rem;
-      height: 32.0rem;
+      width: 312px;
+      height: 320px;
   }
 
   .container__secao .container__secao--conteudo .container__secao--conteudo--textos .container__secao--conteudo--textos-titulo {
-      font-size: 3.1rem;
+      font-size: 2rem;
   }
 
   .container__secao .container__secao--conteudo .container__secao--conteudo--textos .container__secao--conteudo--textos-infos {
-      font-size: 2.2rem;
+      font-size: 2rem;
   }
 
   .container__secao .container__secao--conteudo .container__secao--conteudo--img2:nth-child(2) {
@@ -95,12 +97,12 @@
   }
 
   .container__secao .container__secao--conteudo .container__secao--conteudo--img1 {
-    width: 50.8rem;
+    width: 508px;
   }
 
   .container__secao .container__secao--conteudo .container__secao--conteudo--img2 {
-    width: 22.9rem;
-    height: 32.0rem;
+    width: 229px;
+    height: 320px;
   }
 
 }
