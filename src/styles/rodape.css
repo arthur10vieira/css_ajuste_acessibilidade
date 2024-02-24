@@ -13,13 +13,13 @@
 }
 
 .rodape .rodape__nav--lista .rodape__nav--lista--whatsapp::before {
-  content: url("../assets/Whatsapp.svg");
+  content: url("/assets/Whatsapp.svg")
 }
 
 .rodape .rodape__nav--lista .rodape__nav--lista--instagram::before {
-  content: url("../assets/Instragam.svg");
+  content: url("/assets/Instragam.svg");
 }
 
 .rodape .rodape__nav--lista .rodape__nav--lista--tiktok::before {
-  content: url("../assets/Tiktok.svg");
+  content: url("/assets/Tiktok.svg");
 }

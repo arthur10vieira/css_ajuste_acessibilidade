@@ -23,7 +23,7 @@
 
 .cabecalho .cabecalho__nav .cabecalho__nav--line {
   width: 100%;
-  border-bottom: 1px solid black;
+  border-bottom: .1rem solid black;
 }
 
 .cabecalho .cabecalho__nav .cabecalho__nav--lista {
@@ -44,7 +44,6 @@
   transition: .5s;
 }
 
-
 @media screen and (min-width: 768px) {
   /* Tablet */
 
@@ -54,7 +53,7 @@
   }
 
   .cabecalho__nav--lista {
-    font-size: 2rem;
+    font-size: 2.2rem;
   }
 
 }

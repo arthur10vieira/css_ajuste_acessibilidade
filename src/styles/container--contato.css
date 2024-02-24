@@ -43,7 +43,7 @@
 .container__contato--form .container__contato--form-conteudo-titulo {
   font-family: "Krona One", sans-serif;
   white-space: nowrap;
-  font-size: 2rem;
+  font-size: 2.6rem;
   color: var(--azul-escuro);
   font-weight: 400;
 }
@@ -55,7 +55,7 @@
 
 .container__contato .container__contato--form .container__contato--inputs {
   display: grid;
-  gap: 2rem;
+  gap: 2.4rem;
 }
 
 .container__contato .container__contato--form .container__contato--inputs label,
@@ -80,7 +80,7 @@
 .container__contato .container__contato--form .container__contato--inputs .container__contato--inputs--div {
   display: flex;
   flex-direction: column;
-  column-gap: 3.5rem;
+  row-gap: 3.5rem;
   padding: 2rem;
 }
 
@@ -89,7 +89,7 @@
   border: none;
   border-radius: 2.5rem;
   color: white;
-  font-size: 2rem;
+  font-size: 2.4rem;
   background: var(--azul-botao);
   font-weight: 600;
 }
@@ -132,13 +132,13 @@
   }
 
   .container__contato--form-conteudo-titulo {
-      font-size: 3rem;
+      font-size: 3.1rem;
   }
 
   .container__contato .container__contato--form .container__contato--inputs .container__contato--inputs--div {
       flex-direction: row;
-      column-gap: 1.0rem;
-      padding: 1.5rem 0;
+      column-gap: 3.5rem;
+      padding: 3.5rem 0;
   }
 
 }
